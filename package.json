@@ -1,5 +1,6 @@
 {
   "name": "colors-app",
+  "homepage": "https://BagchiMB.github.io/DP",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,12 +25,12 @@
     "react-transition-group": "^4.3.0"
   },
   "scripts": {
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy":"npm run build",
-    "start": "node index.js",
-    "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
