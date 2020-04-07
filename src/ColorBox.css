@@ -1,0 +1,129 @@
+.ColorBox
+{
+    height:25%;
+    width:20%;
+    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+    cursor:pointer;
+    margin-top:-4px;
+}
+.SingleColorPalette .ColorBox
+{
+    height:50%;
+}
+.ColorBox.Go-back
+{
+    background-color: rgba(0, 0, 0, 0.849);
+}
+.copy-name,.Go-back-button
+{
+    height: 30px;
+    width:100px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    margin-left:-50px;
+    margin-top:-15px;
+    border: none;
+    color:#fff;
+    background-color: rgba(255, 255, 255, 0.267);
+    opacity: 0;
+    cursor:pointer;
+    outline: none;
+}
+.Go-back-button
+{
+    opacity: 1;
+    text-decoration: none;
+    text-align: center;
+    padding-top:2px;
+}
+/* .ColorBox:hover .copy-name
+{
+    opacity:1;
+    transition:0.5s;
+} */
+/* .ColorBox-More
+{
+    position: absolute;
+    left:84%;
+    top:84%;
+    color:white;
+    background-color: rgba(255, 255, 255, 0.274);
+    padding:5px;
+    text-transform: uppercase;
+    font-size:0.9rem;
+} */
+/* .ColorBox .dark-text
+{
+    color:rgba(0, 0, 0, 0.5)
+} */
+/* .ColorBox-content
+{
+    position: absolute;
+    top:88%;
+    left:2%;
+    color:black;
+    text-transform: uppercase;
+    font-size:12px;
+    font-weight: 600;
+} */
+/* .light-text
+{
+    color:#fff;
+} */
+/* .ColorBox-overlay
+{
+    height:100%;
+    width:100%;
+    z-index:0;
+    opacity:0;
+    transition:transform 0.6s ease-in-out;
+} */
+/* .ColorBox-overlay.show
+{
+    position: absolute;
+    opacity:1;
+    z-index:10;
+    transform: scale(50);
+} */
+/* .ColorBox-overlayText
+{
+    position: fixed;
+    top:35vh;
+    left:0vw;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    opacity:0;
+    transform: scale(0.1);
+}
+.ColorBox-overlayText.show
+{
+    opacity:1;
+    z-index:25;
+    transform: scale(1);
+    transition:all 0.2s ease-in-out;
+    transition-delay:0.3s;  
+} */
+/* .ColorBox-overlayText h1
+{
+    text-shadow: 3px 5px 5px rgb(0, 0, 0);
+    margin-bottom:0px;
+    color:white;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 4rem;
+    background: rgba(255, 255, 255, 0.267);
+    width:100vw;
+}
+.ColorBox-overlayText p
+{
+    margin-top: 1vh;
+    font-size: 2rem;
+    font-weight: 100;
+    letter-spacing: 3px;
+} */
