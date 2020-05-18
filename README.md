@@ -19,6 +19,7 @@ Idea seeded from :
 6.  Emoji for your new palette
 7.  A dark colour has light text and light colour has a dark text, so that you don't strain your eyes much
 8.  While creating palette colours can be dragged and placed in any particular order as per your choice
+9.  Newly Created Palettes are saved in browser storage
 
 ## Screenshot
 ![image](/Screenshots/Screenshot45.png)
