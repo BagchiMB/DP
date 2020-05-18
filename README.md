@@ -1,5 +1,5 @@
 # Designer's Palette
-### You can find this project hosted on [https://bagchimb.github.io/DP](https://bagchimb.github.io/DP)
+
 A designer ? Someone who wants to get his/her colours in the same place ?
 This is for you
 
@@ -7,6 +7,8 @@ A fast React App
 
 Idea seeded from :
  [https://flatuicolors.com/](https://flatuicolors.com/) and other multiple sources
+ 
+ ### You can find this project hosted on [https://bagchimb.github.io/DP](https://bagchimb.github.io/DP)
  
  ## Features
 1.  Click on the colour to copy it to your clipboard (hex,rgb,rgba formats included) 
