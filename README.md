@@ -1,4 +1,5 @@
 # Designer's Palette
+### You can find this project hosted on [https://bagchimb.github.io/DP](https://bagchimb.github.io/DP)
 A designer ? Someone who wants to get his/her colours in the same place ?
 This is for you
 
